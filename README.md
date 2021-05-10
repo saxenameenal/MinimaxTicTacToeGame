@@ -10,6 +10,7 @@ When provided with an additional argument 'prune', the program will utilise the 
 Additionally, for further speed-up of the program, Early Termination is also implemented and will be used when providing an additional input value. This is used to terminal the minimax tree traversal early. 
 
 Example(without Alpha-Beta pruning and Early Termination): 
+
 input: oxxxo-ox- output.txt
 
 output to terminal: oxxxo-oxo
