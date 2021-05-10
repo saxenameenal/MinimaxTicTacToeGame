@@ -7,7 +7,9 @@ The state of all of the nodes visited when traversing the game tree and the mini
 
 Example: 
 input: oxxxo-ox-
+
 output to terminal: oxxxo-oxo
+
 output to external text file: oxxxooox- 0
                               oxxxoooxx 0
                               oxxxo-oxo -1
